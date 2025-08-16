@@ -1,2 +1,2 @@
 # mini-projects
-this a demo for git and git hub.
+hii there! this a demo for git and git hub.
